@@ -1,1 +1,3 @@
-print()
+print("ciao")
+
+y=20
